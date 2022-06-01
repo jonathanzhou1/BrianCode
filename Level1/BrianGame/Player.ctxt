@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y\ panel
+comment1.target=Player(int,\ int,\ GamePanel)
+comment2.params=
+comment2.target=void\ set()
+comment3.params=gtd
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4

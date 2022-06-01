@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=x\ y\ width\ height
+comment1.target=Wall(int,\ int,\ int,\ int)
+comment2.params=cameraX
+comment2.target=int\ set(int)
+comment2.text=\r\n\ \ \ \ public\ void\ draw(Graphics2D\ gtd)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ gtd.setColor(Color.BLACK);\r\n\ \ \ \ \ \ \ \ gtd.drawRect(x,\ y,\ width,\ height);\r\n\ \ \ \ \ \ \ \ gtd.setColor(Color.WHITE);\r\n\ \ \ \ \ \ \ \ gtd.fillRect(x\ +\ 1,\ y\ +\ 1,\ width\ -\ 2,\ height\ -\ 2);\r\n\ \ \ \ }\r\n
+numComments=3
