@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TileManager
+comment1.params=gm
+comment1.target=TileManager(Level2.main.GameManager)
+comment2.params=
+comment2.target=void\ getTileImage()
+comment3.params=filePath
+comment3.target=void\ loadMap(java.lang.String)
+comment4.params=g2
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5
