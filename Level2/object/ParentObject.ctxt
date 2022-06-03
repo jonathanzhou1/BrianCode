@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ParentObject
+comment1.params=g2\ gm
+comment1.target=void\ draw(java.awt.Graphics2D,\ Level2.main.GameManager)
+numComments=2
