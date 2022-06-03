@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CollisionManager
+comment1.params=gm
+comment1.target=CollisionManager(main.GameManager)
+comment2.params=entity
+comment2.target=void\ checkTile(Level2.entity.Entity)
+comment3.params=entity\ player
+comment3.target=int\ checkObject(Level2.entity.Entity,\ boolean)
+numComments=4

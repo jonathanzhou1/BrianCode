@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment1.params=
+comment1.target=SoundManager()
+comment2.params=i
+comment2.target=void\ setFile(int)
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=void\ loop()
+comment5.params=
+comment5.target=void\ stop()
+numComments=6

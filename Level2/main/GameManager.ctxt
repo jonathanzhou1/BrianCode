@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameManager
+comment1.params=
+comment1.target=GameManager()
+comment2.params=
+comment2.target=void\ setupGame()
+comment3.params=
+comment3.target=void\ startGameThread()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ update()
+comment6.params=g
+comment6.target=void\ paintComponent(java.awt.Graphics)
+comment7.params=i
+comment7.target=void\ playMusic(int)
+comment8.params=
+comment8.target=void\ stopMusic()
+comment9.params=i
+comment9.target=void\ playSE(int)
+numComments=10

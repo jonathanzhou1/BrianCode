@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ObjectManager
+comment1.params=gm
+comment1.target=ObjectManager(GameManager)
+comment2.params=
+comment2.target=void\ setObject()
+numComments=3
