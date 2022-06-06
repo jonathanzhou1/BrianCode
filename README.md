@@ -5,4 +5,4 @@ Contains all the code and necessary images and sound files for the Brian game. C
 Level 1 Code: Jonathan Zhou
 Level 2 Code: Jonathan Ho
 Level 1 Graphics: Parker Ellis
-Level 2 Grpahics: Samuel Martynychev
+Level 2 Graphics: Samuel Martynychev
